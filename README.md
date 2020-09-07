@@ -1,4 +1,4 @@
-# Django + Vue JS + Meterialize CSS
+# Django + Vue JS + Materialize CSS
 
 ![Vue Logo](/frontend/src/assets/logo-vue.png "Vue Logo")
 ![Django Logo](/frontend/src/assets/logo-django.png "Django Logo")
