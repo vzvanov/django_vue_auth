@@ -1,7 +1,7 @@
 # Django + Vue JS + Meterialize CSS
 
-![Vue Logo](/src/assets/logo-vue.png "Vue Logo")
-![Django Logo](/src/assets/logo-django.png "Django Logo")
+![Vue Logo](/frontend/src/assets/logo-vue.png "Vue Logo")
+![Django Logo](/frontend/src/assets/logo-django.png "Django Logo")
 
 This template is a minimal example for an application using Vue and Django.
 
